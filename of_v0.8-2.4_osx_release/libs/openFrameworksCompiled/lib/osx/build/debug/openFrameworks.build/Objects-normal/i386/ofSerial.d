@@ -1,14 +1,14 @@
 dependencies: \
-  /Users/daruswat/Desktop/cclab-2localStorage/of_v0.8-2.4_osx_release/libs/openFrameworks/communication/ofSerial.cpp \
+  /Users/daruswat/Desktop/cclab-2localStorage/CCLAB_OFHW/of_v0.8-2.4_osx_release/libs/openFrameworks/communication/ofSerial.cpp \
   ../../../../libs/openFrameworks/communication/ofSerial.h \
-  /Users/daruswat/Desktop/cclab-2localStorage/of_v0.8-2.4_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofConstants.h \
+  /Users/daruswat/Desktop/cclab-2localStorage/CCLAB_OFHW/of_v0.8-2.4_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofConstants.h \
   ../../../../libs/glew/include/GL/glew.h \
   ../../../../libs/tess2/include/tesselator.h \
-  /Users/daruswat/Desktop/cclab-2localStorage/of_v0.8-2.4_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/types/ofTypes.h \
+  /Users/daruswat/Desktop/cclab-2localStorage/CCLAB_OFHW/of_v0.8-2.4_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/types/ofTypes.h \
   ../../../../libs/openFrameworks/types/ofColor.h \
-  /Users/daruswat/Desktop/cclab-2localStorage/of_v0.8-2.4_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofMath.h \
-  /Users/daruswat/Desktop/cclab-2localStorage/of_v0.8-2.4_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/types/ofPoint.h \
-  /Users/daruswat/Desktop/cclab-2localStorage/of_v0.8-2.4_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofVec3f.h \
+  /Users/daruswat/Desktop/cclab-2localStorage/CCLAB_OFHW/of_v0.8-2.4_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofMath.h \
+  /Users/daruswat/Desktop/cclab-2localStorage/CCLAB_OFHW/of_v0.8-2.4_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/types/ofPoint.h \
+  /Users/daruswat/Desktop/cclab-2localStorage/CCLAB_OFHW/of_v0.8-2.4_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofVec3f.h \
   ../../../../libs/openFrameworks/math/ofVec2f.h \
   ../../../../libs/openFrameworks/math/ofVec4f.h \
   ../../../../libs/poco/include/Poco/Mutex.h \
@@ -21,7 +21,7 @@ dependencies: \
   ../../../../libs/poco/include/Poco/Exception.h \
   ../../../../libs/poco/include/Poco/ScopedLock.h \
   ../../../../libs/poco/include/Poco/Mutex_POSIX.h \
-  /Users/daruswat/Desktop/cclab-2localStorage/of_v0.8-2.4_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofUtils.h \
+  /Users/daruswat/Desktop/cclab-2localStorage/CCLAB_OFHW/of_v0.8-2.4_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofUtils.h \
   ../../../../libs/openFrameworks/utils/ofLog.h \
   ../../../../libs/openFrameworks/utils/ofFileUtils.h \
   ../../../../libs/poco/include/Poco/File.h \

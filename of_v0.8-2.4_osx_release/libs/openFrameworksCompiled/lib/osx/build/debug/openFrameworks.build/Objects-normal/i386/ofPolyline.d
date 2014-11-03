@@ -1,15 +1,15 @@
 dependencies: \
-  /Users/daruswat/Desktop/cclab-2localStorage/of_v0.8-2.4_osx_release/libs/openFrameworks/graphics/ofPolyline.cpp \
+  /Users/daruswat/Desktop/cclab-2localStorage/CCLAB_OFHW/of_v0.8-2.4_osx_release/libs/openFrameworks/graphics/ofPolyline.cpp \
   ../../../../libs/openFrameworks/graphics/ofPolyline.h \
-  /Users/daruswat/Desktop/cclab-2localStorage/of_v0.8-2.4_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/types/ofPoint.h \
-  /Users/daruswat/Desktop/cclab-2localStorage/of_v0.8-2.4_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofVec3f.h \
+  /Users/daruswat/Desktop/cclab-2localStorage/CCLAB_OFHW/of_v0.8-2.4_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/types/ofPoint.h \
+  /Users/daruswat/Desktop/cclab-2localStorage/CCLAB_OFHW/of_v0.8-2.4_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofVec3f.h \
   ../../../../libs/openFrameworks/math/ofVec2f.h \
-  /Users/daruswat/Desktop/cclab-2localStorage/of_v0.8-2.4_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofConstants.h \
+  /Users/daruswat/Desktop/cclab-2localStorage/CCLAB_OFHW/of_v0.8-2.4_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofConstants.h \
   ../../../../libs/glew/include/GL/glew.h \
   ../../../../libs/tess2/include/tesselator.h \
   ../../../../libs/openFrameworks/math/ofVec4f.h \
-  /Users/daruswat/Desktop/cclab-2localStorage/of_v0.8-2.4_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/types/ofRectangle.h \
-  /Users/daruswat/Desktop/cclab-2localStorage/of_v0.8-2.4_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofLog.h \
+  /Users/daruswat/Desktop/cclab-2localStorage/CCLAB_OFHW/of_v0.8-2.4_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/types/ofRectangle.h \
+  /Users/daruswat/Desktop/cclab-2localStorage/CCLAB_OFHW/of_v0.8-2.4_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofLog.h \
   ../../../../libs/openFrameworks/utils/ofFileUtils.h \
   ../../../../libs/poco/include/Poco/File.h \
   ../../../../libs/poco/include/Poco/Foundation.h \
@@ -20,19 +20,19 @@ dependencies: \
   ../../../../libs/poco/include/Poco/Types.h \
   ../../../../libs/poco/include/Poco/Timestamp.h \
   ../../../../libs/poco/include/Poco/File_UNIX.h \
-  /Users/daruswat/Desktop/cclab-2localStorage/of_v0.8-2.4_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/types/ofTypes.h \
+  /Users/daruswat/Desktop/cclab-2localStorage/CCLAB_OFHW/of_v0.8-2.4_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/types/ofTypes.h \
   ../../../../libs/openFrameworks/types/ofColor.h \
-  /Users/daruswat/Desktop/cclab-2localStorage/of_v0.8-2.4_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofMath.h \
+  /Users/daruswat/Desktop/cclab-2localStorage/CCLAB_OFHW/of_v0.8-2.4_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofMath.h \
   ../../../../libs/poco/include/Poco/Mutex.h \
   ../../../../libs/poco/include/Poco/Exception.h \
   ../../../../libs/poco/include/Poco/ScopedLock.h \
   ../../../../libs/poco/include/Poco/Mutex_POSIX.h \
   ../../../../libs/openFrameworks/graphics/ofGraphics.h \
-  /Users/daruswat/Desktop/cclab-2localStorage/of_v0.8-2.4_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofMatrix4x4.h \
+  /Users/daruswat/Desktop/cclab-2localStorage/CCLAB_OFHW/of_v0.8-2.4_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofMatrix4x4.h \
   ../../../../libs/openFrameworks/math/ofQuaternion.h \
-  /Users/daruswat/Desktop/cclab-2localStorage/of_v0.8-2.4_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/types/ofBaseTypes.h \
-  /Users/daruswat/Desktop/cclab-2localStorage/of_v0.8-2.4_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/3d/ofMesh.h \
-  /Users/daruswat/Desktop/cclab-2localStorage/of_v0.8-2.4_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofUtils.h \
+  /Users/daruswat/Desktop/cclab-2localStorage/CCLAB_OFHW/of_v0.8-2.4_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/types/ofBaseTypes.h \
+  /Users/daruswat/Desktop/cclab-2localStorage/CCLAB_OFHW/of_v0.8-2.4_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/3d/ofMesh.h \
+  /Users/daruswat/Desktop/cclab-2localStorage/CCLAB_OFHW/of_v0.8-2.4_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofUtils.h \
   ../../../../libs/poco/include/Poco/Path.h \
-  /Users/daruswat/Desktop/cclab-2localStorage/of_v0.8-2.4_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/gl/ofGLUtils.h \
-  /Users/daruswat/Desktop/cclab-2localStorage/of_v0.8-2.4_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofPixels.h
+  /Users/daruswat/Desktop/cclab-2localStorage/CCLAB_OFHW/of_v0.8-2.4_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/gl/ofGLUtils.h \
+  /Users/daruswat/Desktop/cclab-2localStorage/CCLAB_OFHW/of_v0.8-2.4_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofPixels.h
