@@ -23,8 +23,15 @@ class ofApp : public ofBaseApp{
 		void gotMessage(ofMessage msg);
     
     Pig piggy;
-    
     Pig pigpig[THREEPIG];
+    
+    float circleX[THREEPIG];
+    float circleY[THREEPIG];
+    float velX[THREEPIG];
+    float velY[THREEPIG];
+    
+    int colorScheme;
+    ofColor c;
     
 		
 };

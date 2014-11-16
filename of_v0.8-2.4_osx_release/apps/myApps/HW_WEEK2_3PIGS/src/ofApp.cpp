@@ -4,10 +4,18 @@
 void ofApp::setup(){
     ofBackground(253,245,230);
     ofSetCircleResolution(64);
+    //ofSetFrameRate(100);
+    
+    
     
     piggy.setup();
     
     for (int i = 0; i<THREEPIG; i++) {
+//        circleX[i] = ofGetWindowWidth()*0.15 * (i+1);
+//        circleY[i] = ofGetWindowHeight()*0.15 * (i+1);
+//        velX[i] = int(ofRandom(1, 4));
+//        velY[i] = int(ofRandom(1, 4));
+        
         pigpig[i].setup();
     }
     
@@ -20,6 +28,9 @@ void ofApp::update(){
     piggy.move();
     
     for(int i = 0; i<THREEPIG; i=i+1){
+        
+
+        
         pigpig[i].move();
     }
     
