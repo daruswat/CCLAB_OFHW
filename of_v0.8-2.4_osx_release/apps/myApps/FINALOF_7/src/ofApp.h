@@ -23,31 +23,22 @@ class ofApp : public ofBaseApp{
 		void gotMessage(ofMessage msg);
     
     
-    
+    //define variable of classes
     Pig piggy;
     Pig pigpig[THREEPIG];
     
     Wolf wolfy;
     Wolf wolf[ONEWOLF];
-    
-    //    float circleX[THREEPIG];
-    //    float circleY[THREEPIG];
+  
     float velX1[THREEPIG];
     float velY1[THREEPIG];
+    float velX2[ONEWOLF];
+    float velY2[ONEWOLF];
     
+    
+    //from example
     ofSoundPlayer sounds[4];
     
-    
-    
-//    ofVideoGrabber 		vidGrabber;
-//    int 				camWidth;
-//    int 				camHeight;
-    
-//    string asciiCharacters;
-//    ofTrueTypeFont  font;
-  
-    
-
     void addPoint(float x, float y) {
         points.push_back(ofVec2f(x, y));
         speeds.push_back(ofVec2f(ofRandom(-1, 1), ofRandom(-1, 1)));
